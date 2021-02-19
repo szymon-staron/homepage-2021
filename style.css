@@ -1,16 +1,21 @@
-body{
-    background-color: #fefefe;
-    
+body {
+  background-color: #ddd5d0;
 }
-h2{
-    color: #1460AA;
-}
-
-.navigation{
- background-color: yellow;
- 
+.title {
+  text-align: center;
+  color: #4b3f72;
 }
 
-.title{
-    color: tomato;
+.section-title {
+  color: #417b5a;
+}
+
+.article-title {
+  color: #583e23;
+}
+.navigation {
+  background-color: #417b5a;
+}
+.navigation-link {
+  color: wheat;
 }
