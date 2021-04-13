@@ -1,21 +1,27 @@
 body {
   background-color: #ddd5d0;
 }
-.title {
+
+.main {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.header__title {
   text-align: center;
   color: #4b3f72;
 }
 
-.section-title {
+.section__title {
   color: #417b5a;
 }
 
-.article-title {
+.article__title {
   color: #583e23;
 }
 .navigation {
   background-color: #417b5a;
 }
-.navigation-link {
+.navigation__link {
   color: wheat;
 }
